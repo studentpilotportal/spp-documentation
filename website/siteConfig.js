@@ -60,7 +60,7 @@ const siteConfig = {
     secondaryColor: '#29b6f6',
   },
 
-  editUrl: 'https://github.com/studentpilotportal/spp-documentation/edit/master/docs',
+  editUrl: 'https://github.com/studentpilotportal/spp-documentation/edit/master/docs/',
 
   /* Custom fonts for website */
   /*
